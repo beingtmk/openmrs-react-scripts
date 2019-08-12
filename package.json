@@ -1,6 +1,6 @@
 {
     "name": "openmrs-react-scripts-example",
-    "version": "3.0.13",
+    "version": "3.0.14",
     "description": "OpenMRS Configuration and scripts for Customizable Create React App",
     "repository": {
         "type": "git",
@@ -31,7 +31,6 @@
         "antd": "^3.19.2",
         "redux-form-website-template": "0.0.41",
         "@openmrs/react-components": "^1.0.0",
-
         "babel-polyfill": "^6.26.0",
         "enzyme": "^3.10.0",
         "enzyme-adapter-react-16": "^1.14.0",
