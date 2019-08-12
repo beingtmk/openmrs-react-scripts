@@ -1,0 +1,4 @@
+deploy:
+  provider: npm
+  email: "beingtmk@gmail.com"
+  api_key: "28517d9b-a058-49f9-ab09-8789cfa62b58"
